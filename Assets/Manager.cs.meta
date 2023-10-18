@@ -1,0 +1,34 @@
+fileFormatVersion: 2
+guid: 6e8918b7fc1fd421e90ece5e808c4dd1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - child: {fileID: 1862879303539127825, guid: 542ccbd4c644e4838bbc50f03a510836, type: 3}
+  - option_canvas: {instanceID: 0}
+  - SL_CHILDMAX: {instanceID: 0}
+  - SL_RAYLONG: {instanceID: 0}
+  - SL_VISIRADI: {instanceID: 0}
+  - SL_KEEPDIST: {instanceID: 0}
+  - SL_MINSPEED: {instanceID: 0}
+  - SL_MAXSPEED: {instanceID: 0}
+  - SL_KEEPDIST_W: {instanceID: 0}
+  - SL_FOLLOW_W: {instanceID: 0}
+  - SL_AHEADCENTER_W: {instanceID: 0}
+  - SL_AVOIDOBST_W: {instanceID: 0}
+  - TX_CHILDMAX: {instanceID: 0}
+  - TX_RAYLONG: {instanceID: 0}
+  - TX_VISIRADI: {instanceID: 0}
+  - TX_KEEPDIST: {instanceID: 0}
+  - TX_MINSPEED: {instanceID: 0}
+  - TX_MAXSPEED: {instanceID: 0}
+  - TX_KEEPDIST_W: {instanceID: 0}
+  - TX_FOLLOW_W: {instanceID: 0}
+  - TX_AHEADCENTER_W: {instanceID: 0}
+  - TX_AVOIDOBST_W: {instanceID: 0}
+  - Spawner: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
